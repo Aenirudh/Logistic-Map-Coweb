@@ -1,1 +1,2 @@
 # Logistic-Map-Coweb
+The logistic map is given by f(x) = 4rx(1−x) where r is bounded 0≤r≤1 and each successive value x_n is determined by recursive application of f(x) using appropriate initial conditions. This program visualizes fixed points and their stability for given r and the appropriate number of iterates. This was inspired by a problem in Computational Modeling and Visualization of Physical Systems with Python (Jay Wang).  
